@@ -1,1 +1,1 @@
-# netlify-functions-ts-template
+# cinetpay-callback-template

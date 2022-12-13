@@ -4,4 +4,3 @@ node_modules
 .yarn
 lambda
 .idea
-.pnp.cjs
